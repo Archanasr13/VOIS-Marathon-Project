@@ -123,3 +123,7 @@ The dashboard becomes available at `http://localhost:3000`.
 **Unified Cybersecurity Simulation & Threat Intelligence Platform**
 
 *Empowering individuals, securing organizations.*
+=======
+# VOIS-Marathon-Project
+VOIS Hackathon Project Submission – Includes application code, problem statement, and project presentation.
+>>>>>>> a86d987d8f6bc6adf7739c43a4a69382c6164e6e
